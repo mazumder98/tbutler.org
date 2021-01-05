@@ -8,11 +8,11 @@
 # -----------BASE SETTINGS---------------#
 #========================================#
 
-title: Tyler Butler 
+title: RK
 email: developer.tbutler@gmail.com
 description: Cyber risk consultant, security researcher, open source developer
 baseurl:                                       # the subpath of your site, e.g. /blog
-url: "https://tbutler.org"          # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mazumder98.github.io"          # the base hostname & protocol for your site, e.g. http://example.com
 image: https://res.cloudinary.com/tbutler-org/image/upload/v1603912192/me_clgeva.jpg               # used to generate site link preview
 image_alt: Cyber risk consultant, security researcher, open source developer   # image description
 
@@ -32,7 +32,6 @@ twitter: tbutler0x90
 github: tcbutler320
 linkedin: tyler-b-a700a1aa
 stackoverflow: 12935605
-website: https://tbutler.org
 codepen: tcbutler320
 email: 
 pgp: 
